@@ -3,11 +3,10 @@
 You can use the [editor on GitHub](https://github.com/Bookie164/pranavbahl.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 >hello
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+**pranav bahl**
 ```markdown
 Syntax highlighted code block
 
@@ -17,10 +16,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-**PRANAV BAHL**
+
 1. Numbered
 2. List
-Pranav Bahl
+
 
 **Bold** and _Italic_ and `Code` text
 
