@@ -7,5 +7,5 @@
  This will take some time,until then a static message
  </body>
 </html><br>
-<img src="scan 10.jpg" alt="Signature">
+<img src="Scan 10.jpg" alt="Signature">
 
