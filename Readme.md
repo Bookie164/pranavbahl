@@ -7,4 +7,4 @@
  This will take some time,until then a static message
  </body>
 </html><br>
-<a href="index.html">Parents</a>
+<p><a href="scan 10.jpg">Signature</a></p>
