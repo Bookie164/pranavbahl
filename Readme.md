@@ -6,5 +6,5 @@
  some use of the student email id,got a  free domain name and web hosting.
  This will take some time,until then a static message
  </body>
-</html>
-
+</html><br>
+<a href="index.html">Parents</a>
