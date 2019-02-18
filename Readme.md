@@ -1,5 +1,6 @@
 <h2>pranav</h2>
-<hr>
- try[this](https://www.google.co.in)
-[Link](git init ok)
-<a href="Titanic.docx">Page 2</a>
+<body>
+ yo guys
+ some use of the student email id,got a domain nae and free hosting.
+ This will take some time,until then a static message
+ </body>
