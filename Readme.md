@@ -7,3 +7,4 @@
  This will take some time,until then a static message
  </body>
 </html>
+<a href="index.html">Parents</a>
