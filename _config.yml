@@ -85,3 +85,5 @@
 <script src="js/modern-blog.js"></script>
 </body>
 </html>
+
+theme: jekyll-theme-hacker
