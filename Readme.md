@@ -10,3 +10,4 @@
 <img src="Scan 10.jpg" alt="Signature">
 <br>
 <a href= "Titanic.docx">Titanic</a>
+<a href="page1.html">Page 2</a>
