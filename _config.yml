@@ -12,3 +12,5 @@ cache:
     - node_modules
 notifications:
   email:       false
+
+theme: jekyll-theme-hacker
