@@ -1,16 +1,6 @@
-language:      node_js
-git:
-  depth:       3
-node_js:
-  - "node"
-install:       npm install
-script:
-  - npm test
-  - gulp
-cache:
-  directories:
-    - node_modules
-notifications:
-  email:       false
+
 
 theme: jekyll-theme-hacker
+github:
+  zip_url: http://pranavbahl.me/download.zip
+  another_url: pranavbahl.me
