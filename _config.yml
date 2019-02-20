@@ -1,8 +1,6 @@
 
 
-#theme: jekyll-theme-hacker
-#github:
- # zip_url: http://pranavbahl.me/download.zip
- # another_url: pranavbahl.me
+theme: jekyll-theme-hacker
+title: [The title of your site]
 
  
