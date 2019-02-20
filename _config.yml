@@ -5,7 +5,7 @@
  # zip_url: http://pranavbahl.me/download.zip
  # another_url: pranavbahl.me
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
