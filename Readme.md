@@ -1,12 +1,10 @@
  <button onclick="window.location.href = 'https://pranavbahl.me/page1.html';">Poem 1</button>
-<a href="page1.html">Poem 1</a><br><br>
-<a href="page2.html">Poem 2</a><br><br>
-<a href="page3.html">Poem 3</a><br><br>
-<a href="page4.html">Poem 4</a><br><br>
-<a href="page5.html">Poem 5</a><br><br>
-<a href="page6.html">Poem 6</a><br><br>
-<a href="page7.html">Poem 7</a><br><br>
-<a href="page8.html">Poem 8</a><br><br>
-<a href="page9.html">Poem 9</a><br><br>
-<a href="page10.html">Poem 10</a><br>
-yo
+ <button onclick="window.location.href = 'https://pranavbahl.me/page2.html';">Poem 2</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page3.html';">Poem 3</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page4.html';">Poem 4</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page5.html';">Poem 5</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page6.html';">Poem 6</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page7.html';">Poem 7</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page8.html';">Poem 8</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page9.html';">Poem 9</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page10.html';">Poem 10</button>
