@@ -17,5 +17,5 @@
   <hr>
  <button onclick="window.location.href = 'https://pranavbahl.me/page9.html';">Poem 9</button><br><br>
   <hr>
- <button onclick="window.location.href = 'https://pranavbahl.me/page10.html';">Poem 10</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page10.html';">Poem 10</button><br>
  <hr>
