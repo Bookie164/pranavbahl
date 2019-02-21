@@ -1,4 +1,4 @@
-<button type="button" onclick="https://www.google.co.in">Poem 1</button><br><br>
+ <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
 <a href="page1.html">Poem 1</a><br><br>
 <a href="page2.html">Poem 2</a><br><br>
 <a href="page3.html">Poem 3</a><br><br>
