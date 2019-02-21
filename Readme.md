@@ -1,4 +1,4 @@
-  <button onclick="window.location.href = 'Poems';">Poems</button><br><br>
+  <button onclick="window.location.href = '';">Poems</button><br><br>
  <button onclick="window.location.href = 'https://pranavbahl.me/page1.html';">Poem 1</button><br><br>
  <hr>
  <br>
