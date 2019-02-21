@@ -1,4 +1,4 @@
- <button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page1.html';">Poem 1</button>
 <a href="page1.html">Poem 1</a><br><br>
 <a href="page2.html">Poem 2</a><br><br>
 <a href="page3.html">Poem 3</a><br><br>
