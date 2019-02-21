@@ -1,3 +1,4 @@
+<button type="button" onclick="page1.html">Poem 1</button><br><br>
 <a href="page1.html">Poem 1</a><br><br>
 <a href="page2.html">Poem 2</a><br><br>
 <a href="page3.html">Poem 3</a><br><br>
