@@ -1,12 +1,4 @@
- <button onclick="window.location.href = 'https://pranavbahl.me/page1.html';">Poem 1</button><br><br>
- <hr>
- <br>
- <button onclick="window.location.href = 'https://pranavbahl.me/page2.html';">Poem 2</button><br><br>
-  <hr>
- <button onclick="window.location.href = 'https://pranavbahl.me/page3.html';">Poem 3</button><br><br>
-  <hr>
- <button onclick="window.location.href = 'https://pranavbahl.me/page4.html';">Poem 4</button><br><br>
-  <hr>
+
  <button onclick="window.location.href = 'https://pranavbahl.me/page5.html';">Poem 5</button><br><br>
   <hr>
  <button onclick="window.location.href = 'https://pranavbahl.me/page6.html';">Poem 6</button><br><br>
