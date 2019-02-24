@@ -9,7 +9,7 @@
   <hr>
  <button onclick="window.location.href = 'https://pranavbahl.me/page5.html';">Poem 5</button><br><br>
   <hr>
- <button onclick="window.location.href = 'https://pranavbahl.me/page6.html';">Poem 6</button><br><br>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page6.html';">Parents</button><br><br>
   <hr>
  <button onclick="window.location.href = 'https://pranavbahl.me/page7.html';">Poem 7</button><br><br>
   <hr>
