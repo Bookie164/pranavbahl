@@ -1,4 +1,4 @@
- <button onclick="window.location.href = 'https://pranavbahl.me/page1.html';">Poem 1</button><br><br>
+ <button onclick="window.location.href = 'https://pranavbahl.me/page1.html';">The Jew</button><br><br>
  <hr>
  <br>
  <button onclick="window.location.href = 'https://pranavbahl.me/page2.html';">Poem 2</button><br><br>
