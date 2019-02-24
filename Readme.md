@@ -11,6 +11,7 @@
 
   gtag('config', 'UA-135037028-1');
 </script>
+<meta name="google-site-verification" content="WloMrsKbvUg_EDId4_i9InFDZBS8ckQX-5mL7QBtFFM" />
 
 
   </HEAD>
