@@ -7,7 +7,7 @@
  </HEAD>
  <style>
   body{
-  color = #bcdf70;
+  color: #bcdf70;
   }
  </style>
  <body>
