@@ -9,6 +9,10 @@
   body{
   color: #bcdf70;
   }
+  <style>
+  body {
+  color: #bcdf70;
+  } </style>
  </style>
  <body>
  <marquee behavior="scroll" direction="left" scrollamount="1">Content under construction,until then static poems only :/</marquee>
