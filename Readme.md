@@ -43,7 +43,8 @@ prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
 }
 if (pass1.toLowerCase()!="password" & testV ==3) 
 history.go(-1);
-return " ";                           
+return " ";   
+   }
 </SCRIPT>
 <CENTER>
 <FORM>
