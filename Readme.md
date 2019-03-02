@@ -14,7 +14,7 @@
 	if (!pass1) 
 	history.go(-1);
 	if (pass1.toLowerCase() == "single") {
-	alert('You Got it Right!');
+	
 	window.open('Poems.html');
 	break;
 	} 
