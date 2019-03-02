@@ -38,7 +38,7 @@
  <input type="button" value="Enter Protected Area" onClick="passWord(1)">
 </FORM>
 </CENTER>
- <marquee behavior="scroll" direction="left" scrollamount="5">Content under construction, until then static poems lonly :/</marquee>
+ <marquee behavior="scroll" direction="left" scrollamount="5">Content under construction, until then static poems only :/</marquee>
 
  <button onclick="window.location.href = 'https://pranavbahl.me/Poems.html';">Poems</button><br><br>
  </body>
