@@ -9,13 +9,13 @@
  <SCRIPT>
 	function passWord() {
 	var testV = 1;
-	var pass1 = prompt('Please Enter Your Password',' ');
+	var pass1 = prompt('What is the name of my first school? ',' ');
 	while (testV < 3) {
 	if (!pass1) 
 	history.go(-1);
 	if (pass1.toLowerCase() == "single") {
 	
-	window.open('Poems.html');
+ window.open('Poems.html');
 	break;
 	} 
 	testV+=1;
@@ -27,7 +27,8 @@
 	return " ";
 	} 
 	</SCRIPT>
-	<CENTER>
+	
+<CENTER>
 	<FORM>
 	<input type="button" value="Enter Protected Area" onClick="passWord()">
 	</FORM>
