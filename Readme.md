@@ -33,7 +33,7 @@
 	<input type="button" value="Enter Protected Area" onClick="passWord()">
 	</FORM>
 	</CENTER>
-<a href="https://pranavbahl.me/pranav.pptx">Visit our HTML tutorial</a>
+
 <a href="https://pranavbahl.me/lol.html">Links</a>
  <marquee behavior="scroll" direction="left" scrollamount="5">Content under construction, until then static poems only :/</marquee>
 
