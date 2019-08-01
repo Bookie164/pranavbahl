@@ -1,5 +1,6 @@
  <HTML>
   <HEAD>
+	  <link rel="stylesheet" href="styles.css">
 <meta name="description" content="Homepage for personal website on hobbies,fun and travel.">
 <meta name="keywords" content="hobbies,fun,travel,pranavbahl poems,poems view,page poems,pranavbahl poem, view poems,Top 10 poems">
 <meta name="author" content="Pranav Bahl">
