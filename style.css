@@ -1363,12 +1363,12 @@ p {
 }
 
 /* Giving a background-color to the nav container. */
-/*nav { 
+  nav { 
 	margin:0;
 	padding: 0;
 	background-color: #254441;
 }
-*/
+
 #logo {
 	display: block;
 	padding: 0 30px;
@@ -1487,7 +1487,7 @@ li > a:only-child:after { content: ''; }
 	/* Stylinf the toggle lable */
 	.toggle {
 		display: block;
-		/*background-color: #254441;*/
+		background-color: #254441;
 		padding:14px 20px;	
 		color:#FFF;
 		font-size:17px;
@@ -1496,7 +1496,7 @@ li > a:only-child:after { content: ''; }
 	}
 
 	.toggle:hover {
-		/*background-color: #000000;88*/
+		background-color: #000000;88
 	}
 
 	/* Display Dropdown when clicked on Parent Lable */
@@ -1521,7 +1521,7 @@ li > a:only-child:after { content: ''; }
 
 	nav a:hover,
  	nav ul ul ul a {
-		/*background-color: #000000;*/
+		background-color: #000000;
 	}
   
 	nav ul li ul li .toggle,
@@ -1535,7 +1535,7 @@ li > a:only-child:after { content: ''; }
   
 	nav ul li ul li .toggle,
 	nav ul ul a {
-		/*background-color: #212121;*/
+		background-color: #212121;
 	}
 
 	/* Hide Dropdowns by Default */
