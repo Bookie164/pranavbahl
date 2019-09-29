@@ -1401,7 +1401,7 @@ nav ul li {
 	margin: 0px;
 	display:inline-block;
 	float: left;
-	background-color: #254441;
+
 	}
 
 /* Styling the links */
@@ -1414,7 +1414,7 @@ nav a {
 }
 
 
-nav ul li ul li:hover { background: #000000; }
+nav ul li ul li:hover 
 
 /* Background color change on Hover */
 nav a:hover { 
