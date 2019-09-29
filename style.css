@@ -1363,12 +1363,12 @@ p {
 }
 
 /* Giving a background-color to the nav container. */
-nav { 
+/*nav { 
 	margin:0;
 	padding: 0;
 	background-color: #254441;
 }
-
+*/
 #logo {
 	display: block;
 	padding: 0 30px;
