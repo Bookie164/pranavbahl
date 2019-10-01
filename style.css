@@ -1371,7 +1371,7 @@ p {
 
 #logo {
 	display: block;
-	padding: 0 30px;
+	padding: 0 1px;
 	float: left;
 	font-size:20px;
 	line-height: 60px;
