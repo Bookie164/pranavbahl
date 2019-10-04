@@ -1528,7 +1528,7 @@ li > a:only-child:after { content: ''; }
 	nav ul ul a,
   nav ul ul ul a{
 		padding:14px 20px;	
-		color:#FFF;
+		color:#000000;
 		font-size:17px; 
 	}
   
