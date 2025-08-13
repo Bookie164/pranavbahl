@@ -45,7 +45,7 @@ body
 @for $i from 1 through $quantity
   
   $steps: random(12) + 160
-  $rotationSpeed: random(10) + 8s
+  $rotationSpeed: random(100) + 8s
   
   .firefly:nth-child(#{$i})
     animation-name: move#{$i}
@@ -54,7 +54,7 @@ body
       animation-duration: #{$rotationSpeed}
 
     &::after
-      animation-duration: #{$rotationSpeed}, random(6000) + 5000ms
+      animation-duration: #{$rotationSpeed}, random(60) + 5000ms
       animation-delay: 0ms, random(8000) + 500ms
 
   @keyframes move#{$i}
